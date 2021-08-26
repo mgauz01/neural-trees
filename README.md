@@ -13,5 +13,5 @@ This project is about classifying what type of tree species a tree belongs to so
 
 ## Results
 Here are the results that were able to be achieved using a transfer learninig mode called `ResNet50V2` using 10 epochs and a couple added dropout and dense layers we were able to observe the behaviour of the given model acros 10 epochs, here is what we observed.
-!
+
 ![](results.png)
